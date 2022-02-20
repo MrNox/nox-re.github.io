@@ -2,3 +2,6 @@ Gemfile
 Gemfile.*
 _site/
 .jekyll-cache/
+.sass-cache
+.jekyll-metadata
+_drafts
