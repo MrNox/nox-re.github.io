@@ -5,11 +5,17 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
+
+# Social Networks
+twitter_username: MrNox_
+github_username:  MrNox
+youtube_channel:  UCg01TfhxLro71ppULtIBAjw
+
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Whoami
+tagline:          "A Jekyll theme"
+description:      "Nox's projects, conferences, blogposts and more..."
+url:              https://nox.reversingcode.re
 baseurl:          /
 
 author:
@@ -26,4 +32,4 @@ plugins:
   - jekyll-gist
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/MrNox
