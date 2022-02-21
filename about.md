@@ -4,12 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! My name is Josué aka Nox - I've started in the reversing world since my last year of high school 2007 :D cheating in Rakion, doing reversing without knowing it is calling 'reversing', winning my first 250USD with 15k downloads in a week for a Rakion's cheat bot I programmed in ASM. 
+<br/>
+That's is only the beginning of my adventure ...
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I wrote many stuffs in spanish and the latest years I started it in english. This blog tries to recopile and sort everithing I've done so far, researchs, tells some histories and shows my infosec talks.
 
-There are currently two themes built on Poole:
+
+
 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
