@@ -10,15 +10,17 @@ permalink:        pretty
 twitter_username: MrNox_
 github_username:  MrNox
 youtube_channel:  UCg01TfhxLro71ppULtIBAjw
+email:            nox@reversingcode.re
 
 # Setup
-title:            "Whoami"
-tagline:          "A Jekyll theme"
+title:            "Nox's website"
+tagline:          "Pwner"
 description:      "Nox's projects, conferences, blogposts and more..."
 url:              https://nox.reversingcode.re
 baseurl:          /
 
 author:
+  title:          "Whoami"
   name:           'Nox'
   url:            https://twitter.com/mrnox_
 
