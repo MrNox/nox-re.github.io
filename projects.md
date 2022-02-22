@@ -12,7 +12,7 @@ title: Projects
 
 ## Malware analyst
 ### 2012
-* [[PDF-ES]]({% link assets/data/2012-07-unpacking-dynamic-forking/writeup.pdf %}) Unpacking malware using Dynamic Forking method
+* [[PDF-ES]]({% link assets/data/2012-07-unpacking-dynamic-forking/writeup.pdf %}) Unpacking Dynamic Forking method used by malware
 * [[PDF-ES]]({% link assets/data/2012-06-acad-medre/writeup.pdf %}) [[FILES]]({% link assets/data/2012-06-acad-medre/ES-2012-06-acad-medre.tar.gz %}) LISP malware attacking South America companies. Analysing ACAD/MEDRE
 
 ## Unpacking
