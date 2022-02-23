@@ -5,10 +5,11 @@ title: Researchs
 
 
 
-
 ## OS internals
 ### 2012
 * asdf
+
+### Exploiting
 
 ## Malware analyst
 ### 2012
@@ -17,6 +18,7 @@ title: Researchs
 
 ## Unpacking
 ### 2012
+* [[PDF-ES]]({% link assets/data/2012-12-unpacking-vmprotect-zprotect/writeup.pdf %}) [[FILES]]({% link assets/data/2012-12-unpacking-vmprotect-zprotect/2012-12-unpacking-vmprotect-zprotect.tar.gz %}) Unpacking Themida v2.2.x + ZProtect
 * [[PDF-ES]]({% link assets/data/2012-09-unpacking-themida-delphi-iat/writeup.pdf %}) [[FILES]]({% link assets/data/2012-09-unpacking-themida-delphi-iat/ES-2012-09-unpacking-themida-delphi-iat.tar.gz %}) Unpacking Themida v2.1.8 for a Delphi binary and IAT reconstruction
 * [[PDF-ES]]({% link assets/data/2012-02-vmprotect-vb-iat/writeup.pdf %}) [[FILES]]({% link assets/data/2012-02-vmprotect-vb-iat/ES-2012-02-vmprotect-vb-iat.tar.gz %}) Unpacking VMProtect v1.6 - v2.05 for a VB binary and IAT reconstruction
 
