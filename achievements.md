@@ -29,5 +29,5 @@ title: Achievements
 * Malware analyst: techniques and methods by ESET*
 
 <p class="message">
-* Award for 2nd position in ESET Universatry challenge
+* Award for 2nd position in ESET Universitary challenge
 </p>
