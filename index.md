@@ -15,10 +15,10 @@ In the past I wrote many stuffs in spanish and nowdays I began it in english. Th
 
 Maybe you would like to check:
 
-* [Achievements]({% link achievements.md %})
-* [Research]({% link researchs.md %})
-* [Stories]({% link stories.md %})
-* [Talks]({% link talks.md %})
+* [Achievements]({% link pages/achievements.md %})
+* [Research]({% link pages/researchs.md %})
+* [Stories]({% link pages/stories.md %})
+* [Talks]({% link pages/talks.md %})
 
 {% comment %}
 * [Conferences]({% post_url 2012-02-07-example-content %})
