@@ -34,8 +34,8 @@ title: Achievements
 
 [2014] Introduction into software vulnerability exploitation by Core Security
 <br />
-Malware analyst: techniques and methods by ESET*
+[2012] Malware analyst: techniques and methods by ESET*
 
 <p class="message">
-Award for 2nd position in ESET Universitary challenge
+* Award for 2nd position in ESET Universitary challenge
 </p>
