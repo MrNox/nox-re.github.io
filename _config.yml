@@ -15,12 +15,12 @@ email:            nox@reversingcode.re
 # Setup
 title:            "Nox's website"
 tagline:          "Pwner"
-description:      "Nox's projects, conferences, blogposts and more..."
+description:      "Nox's projects, talks, blogposts and more..."
 url:              https://noxhax.me
 baseurl:          /
 
 author:
-  title:          "Whoami"
+  title:          "Josué R."
   name:           'Nox'
   url:            https://twitter.com/mrnox_
 

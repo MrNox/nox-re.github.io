@@ -11,7 +11,7 @@ Hey there! My name is Josué aka Nox - I've started in the reversing world since
 That's is only the beginning of my adventure ...
 <br/>
 
-In the past I wrote many stuffs in spanish and nowdays I began it in english. This website tries to recopile and sort everithing I've done so far, researchs, tell some histories and shows my infosec talks.
+In the past I wrote many stuffs in spanish and nowadays I began it in english. This website tries to recopile and sort everithing I've done so far, researchs, tell some histories and shows my infosec talks.
 
 Maybe you would like to check:
 

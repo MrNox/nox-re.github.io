@@ -45,6 +45,9 @@ html {
   }
 }
 
+a:hover {
+  text-decoration: none;
+}
 
 /*
  * Sidebar
@@ -57,7 +60,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #181818;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -93,7 +96,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -128,7 +131,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 48rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
