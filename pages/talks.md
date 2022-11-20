@@ -3,6 +3,8 @@ layout: page
 title: Talks
 ---
 
+[2022] Ekoparty: The game(life) and how to hack it [[VIDEO-ES]](https://www.youtube.com/watch?v=LwOFWHnjSgA){:target="_blank"}
+<br>
 [2020] OWASP LATAM Tour: From blogpost to SYSTEM, developing an exploit [[VIDEO-ES]](https://www.youtube.com/watch?v=8xHeNhx6dcY&t=2180s){:target="_blank"}
 <br>
 [2020] OWASP LATAM@Home: From a window to SYSTEM, developing an exloit [[VIDEO-ES]](https://www.youtube.com/watch?v=daPnSP4bKV8){:target="_blank"}
