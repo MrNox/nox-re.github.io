@@ -2,6 +2,10 @@
 layout: page
 title: Researchs
 ---
+[2022] Identifying vftables through MS's C++ RTTI [[EN]](https://blog.rop.la/en/reversing/2022/12/13/identifying-vftables-through-ms-cpp-rtti.html){:target="_blank"} 
+<br>
+[2022] Bluefrost windows exploitation challenge for Ekoparty 2022 [[EN]](https://blog.rop.la/en/reversing/2022/11/20/bfs-windows-exploitation-ekoparty-2022.html){:target="_blank"} 
+<br>
 [2022] Gamehacking: Rakion, my beginning [[EN]](https://blog.rop.la/en/reversing/2021/06/09/gamehacking-rakion-my-begining.html){:target="_blank"} 
 <br>
 [2021] NT base infoleak (CVE-2018-8121) [[EN]](https://blog.rop.la/en/reversing/2021/03/25/nt-infoleak-cve-2018-8121.html){:target="_blank"} 

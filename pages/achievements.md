@@ -27,11 +27,8 @@ title: Achievements
 <br />
 [2020] Browser exploitation by Amy Burnett
 <br />
-
-<br />
 [2015] Introduction into Hardware hacking at Ekoparty
 <br />
-
 [2014] Introduction into software vulnerability exploitation by Core Security
 <br />
 [2012] Malware analyst: techniques and methods by ESET*
