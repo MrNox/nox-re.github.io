@@ -33,6 +33,4 @@ title: Achievements
 <br />
 [2012] Malware analyst: techniques and methods by ESET*
 
-<p class="message">
-* Award for 2nd position in ESET Universitary challenge
-</p>
+> * Award for a [ESET reversing challenge](https://www.welivesecurity.com/la-es/2012/09/14/reto-ekoparty-publicacion-de-los-ganadores/)
